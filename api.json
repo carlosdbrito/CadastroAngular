@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Rafael Ferreira",
+      "idade": 19,
+      "ativo": true
+    },
+    {
+      "id": 2,
+      "nome": "Lucas Ferreira",
+      "idade": 35,
+      "ativo": false
+    }
+  ],
+  "produtos": [
+    {
+      "nomeProduto": "Produto Alterado com no maximo 50 caracteres conta",
+      "codigoBarras": "aa88888888888",
+      "quantidade": 6,
+      "preco": 2,
+      "id": 3
+    },
+    {
+      "nomeProduto": "aaaaaaaaaaaaaaaaaaa",
+      "codigoBarras": "222222222222",
+      "quantidade": 333333333,
+      "preco": 3333333.33,
+      "id": 4
+    }
+  ]
+}

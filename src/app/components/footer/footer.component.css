@@ -1,0 +1,20 @@
+.footer-main {
+    background-color: #03657c;
+    color: #ffffff;
+    padding: 20px 0;
+}
+.address-box {
+    margin-bottom: 20px;
+}
+.add-icon img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.add-content h5 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.add-content p {
+    font-size: 14px;
+}
